@@ -47,16 +47,23 @@ javac -d out src/com/vault/*.java
 java -cp out com.vault.Main
 
 🧰 Example Usage
+
 =============================
+
   Secure File Vault - Menu
+  
 =============================
 1. Encrypt File
 2. Decrypt File
 3. Exit
 Enter your choice: 1
+
 Enter file path: files/sample.txt
+
 Enter key: mySecret123
+
 File encrypted successfully → files/encrypt_samplefile
+
 🛠️ Technologies Used
 
 Language: Java
